@@ -1,1 +1,5 @@
-sdfv.hb;sdvbj;buosdvbosdv
+The code starts by declaring a list of tasks and their respective difficulty levels.
+
+ The code then calculates the average difficulty level for each task in the list.
+ 
+ The code calculates the average difficulty of the tasks.
