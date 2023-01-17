@@ -2,7 +2,7 @@
 One Stop Human Resource Management Product.
 
 
-It aims to:
+## It aims to:
 
 1.Ensures non biased work load
 
